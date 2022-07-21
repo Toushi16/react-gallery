@@ -1,0 +1,15 @@
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(138, 201, 206);
+    height: 300px;
+    box-shadow: inset 0 0 2px;
+}
+
+.hero__title {
+    font-size: 5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    text-shadow: 0 0 8px;
+}
